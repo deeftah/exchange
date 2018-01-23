@@ -1,4 +1,4 @@
-<img src="https://alty.nl/assets/img/alty-logo-v2-72.png">
+<img src="https://alty.nl/assets/img/alty-logo-hori-72.png">
 
 
 What is Alty?
